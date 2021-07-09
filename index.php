@@ -1,4 +1,6 @@
+<?php include "includes/db.php" ?>
 <?php include "includes/header.php" ?>
+
 
     <!-- Navigation -->
     <?php include "includes/navigation.php" ?>
@@ -31,7 +33,7 @@
                 <a class="btn btn-primary" href="#">Read More <span class="glyphicon glyphicon-chevron-right"></span></a>
 
                 <hr>
-                
+
             </div>
 
             <!-- Blog Sidebar Widgets Column -->
